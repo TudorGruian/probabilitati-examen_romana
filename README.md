@@ -4,7 +4,7 @@
 >
 ## Rezultate: 
 Programul are in folderul "tests" toate testele care s-or dat pe perioada (2010-2017)
-- Observatie: daca vreti sa adaugati fisiere PDF de Evaluare Nationala care nu sunt prezente (exemplu: simulari, subiecte noi care nu sunt prezente in program, modele date de MEN) le adauati direct in folderul "tests". Acestea sunt acceptate cu conditia ca fisierul introdus sa fie PDF
+- Observatie: daca vreti sa adaugati fisiere PDF de Evaluare Nationala care nu sunt prezente (exemplu: simulari, subiecte noi care nu sunt prezente in program, modele date de MEN) le adaugati direct in folderul "tests". Acestea sunt acceptate cu conditia ca fisierul introdus sa fie PDF
 ```
 2012.pdf mesaj
 2014.pdf titlu
